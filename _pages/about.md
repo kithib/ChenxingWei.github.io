@@ -81,30 +81,72 @@ If you are interested in my research, please feel free to contact me via [![Emai
 <!-- ## Conference Committee Member -->
 - Reviewer for ICLR'2026
 
+<br>
+
+
+
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.11* Senior Area Chair Highlights Award of EMNLP 2025.
+- *2025.10* National Scholarship *Shenzhen University*
+- *2025.09* First-Class Academic Scholarship *Shenzhen University*
+- *2023.09* Second-Class Academic Scholarship Shenzhen University*
+- *2022.06* First Prize in the TI Cup National Undergraduate Electronics Design Contest *Nanjing University of Aeronautics and Astronautics*
+- *2021.06* First Prize in the Contemporary Undergraduate Mathematical Contest in Modeling *Nanjing University of Aeronautics and Astronautics*
+
+<br>
 
 # 📖 Educations
 - Shenzhen University<img src="images/insignia/szu.jpg" alt="SZU Insignia" style="float: right; width: 90px;"/>
 
   Master, Computer Science, 2023.09 - (now), 
 
-  Advisor: Prof. [Fei Richard Yu](https://scholar.google.com/citations?user=zuGMGBoAAAAJ), Co-Advisor: Prof. [Yao Shu](https://yao.notion.site/)
+  Advisor: Prof. [Fei Richard Yu](https://scholar.google.com/citations?user=zuGMGBoAAAAJ)
+  Co-Advisor: Prof. [Yao Shu](https://yao.notion.site/)
+
+
 <br>
-<br>
+
 
 - Nanjing University of Aeronautics and Astronautics<img src="images/insignia/NUAA.png" alt="NUAA Insignia" style="float: right; width: 100px;"/>
   
-  Undergraduate, Computer Science, 2019.09 - 2023.06, 
+  Undergraduate, 2019.09 - 2023.06, 
   
   Advisor: Prof. [Hanlin Sheng](https://ieeexplore.ieee.org/author/37088579434)
-  
-<!--
-# 💬 Invited Talks
+
+<br>
+
+<!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 -->
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+
+
+- ByteDance 
+  Algorithm Intern, AI LAB, 2025.10 - (now), 
+  Main contributions: Research on reinforcement learning for diffusion language models in code modification
+  
+
+
+<br>
+
+
+- Tencent 
+  Algorithm Intern, CSIG CodeBuddy Team, 2025.02 - 2025.09, 
+  Main contributions: Research on self-play reinforcement learning framework for GUI agents.
+  
+
+
+<br>
+
+
+- Tencent 
+  Algorithm Intern, AI LAB, 2024.06 - 2024.12, 
+  Main contributions: Research on emotion and action prediction model of the game NPC and Scaling Law.
+  
+<br>
+
+# 👾 Misc
+
+<dl style="text-align: center;"><a href='https://clustrmaps.com/site/1bw3j'  title='Visit tracker'><img src='//clustrmaps.com/map_v2.png?cl=080808&w=300&t=tt&d=kX2KOIZec5lK22VitFidFZG9_RIYd8zSoWPTZZp1KA4&co=ffffff&ct=808080'/></a></dl>
