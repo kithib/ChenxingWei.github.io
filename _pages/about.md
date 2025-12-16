@@ -88,13 +88,19 @@ If you are interested in my research, please feel free to contact me via [![Emai
 # 📖 Educations
 - Shenzhen University<img src="images/insignia/szu.jpg" alt="SZU Insignia" style="float: right; width: 90px;"/>
 
-  PhD, Computer Science, 2023.09 - (now), 
+  Master, Computer Science, 2023.09 - (now), 
 
   Advisor: Prof. [Fei Richard Yu](https://scholar.google.com/citations?user=zuGMGBoAAAAJ)
   Co-Advisor: Prof. [Yao Shu](https://yao.notion.site/)
 <br>
 <br>
 
+- Nanjing University of Aeronautics and Astronautics<img src="images/insignia/NUAA.png" alt="NUAA Insignia" style="float: right; width: 100px;"/>
+  
+  Undergraduate, Computer Science, 2019.09 - 2023.06, 
+  
+  Advisor: Prof. [Hanlin Sheng](https://ieeexplore.ieee.org/author/37088579434)
+  
 <!--
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
