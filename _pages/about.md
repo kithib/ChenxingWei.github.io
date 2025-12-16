@@ -124,7 +124,7 @@ If you are interested in my research, please feel free to contact me via [![Emai
 
 
 - ByteDance 
-  Algorithm Intern, AI LAB, 2025.10 - (now), 
+  Algorithm Intern, MarsCode Trae Team, 2025.10 - (now), 
   Main contributions: Research on reinforcement learning for diffusion language models in code modification
   
 
