@@ -123,8 +123,10 @@ If you are interested in my research, please feel free to contact me via [![Emai
 # 💻 Internships
 
 
-- ByteDance 
+- ByteDance<img src="images/insignia/ByteDance.png" alt="ByteDance Insignia" style="float: right; width: 100px;"/>
+
   Algorithm Intern, MarsCode Trae Team, 2025.10 - (now), 
+
   Main contributions: Research on reinforcement learning for diffusion language models in code modification
   
 
@@ -132,8 +134,10 @@ If you are interested in my research, please feel free to contact me via [![Emai
 <br>
 
 
-- Tencent 
+- Tencent<img src="images/insignia/Tencent.png" alt="Tencent Insignia" style="float: right; width: 100px;"/>
+
   Algorithm Intern, CSIG CodeBuddy Team, 2025.02 - 2025.09, 
+
   Main contributions: Research on self-play reinforcement learning framework for GUI agents.
   
 
@@ -141,10 +145,12 @@ If you are interested in my research, please feel free to contact me via [![Emai
 <br>
 
 
-- Tencent 
+- Tencent<img src="images/insignia/Tencent.png" alt="Tencent Insignia" style="float: right; width: 100px;"/>
+
   Algorithm Intern, AI LAB, 2024.06 - 2024.12, 
-  Main contributions: Research on emotion and action prediction model of the game NPC and Scaling Law.
   
+  Main contributions: Research on emotion and action prediction model of the game NPC and Scaling Law.
+
 <br>
 
 # 👾 Misc
