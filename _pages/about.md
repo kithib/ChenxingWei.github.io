@@ -34,7 +34,7 @@ If you are interested in my research, please feel free to contact me via [![Emai
 
   <li><em>2025.11:</em> 🎉🎉 <a href="https://dl.acm.org/doi/abs/10.1145/3746027.3758269">UniSVG</a> is accepted by <strong>ACM MM 2025 Dataset Track</strong>.</li>
 
-  <li><em>2025.11:</em> 🎉🎉 <a href="https://aclanthology.org/2025.emnlp-main.37/">PAFT</a> is accepted by <strong>EMNLP 2025</strong>, and wins the <strong>SAC Highlights Award</strong> (TOP 2%) at EMNLP 2025!.</li>
+  <li><em>2025.11:</em> 🎉🎉 <a href="https://aclanthology.org/2025.emnlp-main.37/">PAFT</a> is accepted by <strong>EMNLP 2025</strong>, and wins the <strong>SAC Highlights Award</strong> (TOP 2%) at <strong>EMNLP 2025!</strong> </li>
 
   <li><em>2025.10:</em> I serve as a reviewer for <strong>ICLR 2026</strong>.</li>
 
