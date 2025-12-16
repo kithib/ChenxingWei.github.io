@@ -23,10 +23,44 @@ My research interests primarily lie in the post-training of Large Language Model
 
 If you are interested in my research, please feel free to contact me via [![Email](https://img.shields.io/badge/Email-Contact_Me-blue?style=flat&logo=gmail&logoColor=white)](mailto:weichenxing2023@email.szu.edu.cn).
 
+<br/>
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
+
+<div style="max-height: 200px; overflow-y: auto;">
+<ul>
+
+  <li><em>2025.12:</em> 🎉🎉 <a href="https://neurips.cc/virtual/2025/loc/san-diego/poster/115973">ReDit</a> is accepted by <strong>NeurIPS 2025</strong>.</a></li>
+
+  <li><em>2025.11:</em> 🎉🎉 <a href="https://dl.acm.org/doi/abs/10.1145/3746027.3758269">UniSVG</a> is accepted by <strong>ACM MM 2025 Dataset Track</strong>.</a></li>
+
+  <li><em>2025.11:</em> 🎉🎉 <a href="https://aclanthology.org/2025.emnlp-main.37/">PAFT</a> is accepted by <strong>EMNLP 2025</strong>, and wins the <strong>SAC Highlights Award</strong> (TOP 2%) at EMNLP 2025!.</a></li>
+
+  <li><em>2025.10:</em> I serve as a reviewer for <strong>ICLR 2026</strong>.</li>
+
+  <li><em>2025.10:</em> We propose <a href="https://arxiv.org/abs/2510.21830">GAPO</a>, a method that robustly handles skewed reward distributions with outliers in code-editing RL by adaptively computing advantages, leading to consistent performance improvements. Check our <a href="https://github.com/TsingZ0/verl-GAPO"> Github</a>.</li>
+
+  <li><em>2025.10:</em> We propose <a href="https://arxiv.org/abs/2510.24832">R-Score</a>, a novel metric to quantify the learnability of queries in RL to enhenced the curriculum learning method. Check our <a href="https://github.com/zz-haooo/Re-Schedule"> Github</a>.</li>
+
+  <li><em>2025.09:</em> We propose <a href="https://arxiv.org/abs/2509.23166">ROSA</a>, a lightweight algorithm for our test-time adaptation paradigm that enables LLMs to perform efficient in-conversation self-correction by updating parameters online using real-time user feedback. Check our <a href="https://github.com/kithib/ROSA"> Github</a>.</li>
+
+  <li><em>2025.08:</em> We propose <a href="https://arxiv.org/abs/2508.07766">UniSVG</a>, a SVG dataset for improving MLLM SVG generate performance. Check our <a href="https://ryanlijinke.github.io/"> Project Page</a> and <a href="https://huggingface.co/datasets/lili24/UniSVG"> Hugging Face</a>.</li>
+
+
+  <li><em>2025.06:</em> We propose <a href="https://arxiv.org/abs/2506.18631">ReDit</a>, a technique that enhances reinforcement learning in large language models by adding random perturbations to reward signals, improving training efficiency and convergence speed while maintaining performance. Check our <a href="https://github.com/kithib/ReDit"> Github</a>.</li>
+
+  <li><em>2025.06:</em> 🎉🎉 <a href="https://aclanthology.org/2025.acl-long.713/">Flexora</a> is accepted by <strong>ACL 2025</strong>.</a></li>
+
+  <li><em>2025.02:</em> We propose <a href="https://arxiv.org/abs/2502.12859">PAFT</a>, which dynamically adjusts prompts during training, improving robustness, generalization, and even inference speed. Check our <a href="https://github.com/kithib/PAFT"> Github</a>.</li>
+
+  <li><em>2024.08:</em> We propose <a href="https://arxiv.org/abs/2408.10774">Flexora</a>, a novel method that enhances Large Language Model fine-tuning efficiency by selectively adapting only the most critical layers. Check our <a href="https://github.com/kithib/Flexora"> Github</a>.</li>
+
+  <li><em>2024.02:</em> We propose <a href="https://arxiv.org/abs/2402.18679">Data Interpreter</a>, an LLM agent for solving data science problems. Check our <a href=" https://github.com/geekan/MetaGPT"> Github</a>.</li>
+  
+</ul>
+</div>
+
+<br/>
 # 📝 Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
