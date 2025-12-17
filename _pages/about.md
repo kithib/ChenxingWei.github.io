@@ -104,7 +104,6 @@ PAFT: Prompt-Agnostic Fine-Tuning
 <strong>Chenxing Wei</strong>, Yao Shu, Mingwen Ou, Ying Tiffany He, Fei Richard Yu
 
 [**Paper**](https://arxiv.org/abs/2502.12859)  |  [**GitHub** ](https://github.com/kithib/PAFT) 
-
 - <strong>Algorithm (PAFT):</strong> Introduces **PAFT**, which minimizes the divergence between predictions from full prompts and "pattern-free" inputs, effectively decoupling task reasoning from specific instruction syntax.
 - <strong>Theory:</strong> Theoretically guarantees reduced generalization error under prompt distribution shifts and empirically achieves state-of-the-art robustness.
 
@@ -118,10 +117,10 @@ PAFT: Prompt-Agnostic Fine-Tuning
 
 Flexora: Flexible Low-Rank Adaptation for Large Language Models
 
+
 <strong>Chenxing Wei&dagger;</strong>, Yao Shu&dagger;, Ying Tiffany He, Fei Yu
 
 [**Paper** ](https://arxiv.org/abs/2408.10774)  |  [**GitHub** ](https://github.com/kithib/Flexora) 
-
 - <strong>Algorithm (Flexora):</strong> Introduces Flexora, a framework that treats layer selection as a Hyperparameter Optimization (HPO) problem. It employs unrolled differentiation to automatically learn a policy that identifies and adapts only the most critical layers for specific downstream tasks.
 - <strong>Theory:</strong> Provides theoretical insights into how automated, flexible layer selection effectively mitigates overfitting and enhances generalization compared to uniform adaptation.
 
