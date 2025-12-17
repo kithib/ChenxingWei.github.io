@@ -62,27 +62,70 @@ If you are interested in my research, please feel free to contact me via [![Emai
 
 <br/>
 # 📝 Publications 
+**&dagger; Equal Contribution**   
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025 Workshop MTI-LLM</div><img src='images/ROSA.png' alt="ROSA" width="100%" style="display: block;"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+Test-Time Policy Adaptation for Enhanced Multi-Turn Interactions with LLMs
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+<strong>Chenxing Wei</strong>, Hong Wang, Ying He, Yao Shu, Fei Yu 
+
+[**Paper**](https://arxiv.org/abs/2509.23166)  |  [**GitHub** ](https://github.com/kithib/ROSA) 
+- <strong>Paradigm (T2PAM):</strong> Proposes a paradigm shifting alignment from offline training to test-time inference, utilizing conversational feedback for real-time policy updates
+- <strong>Algorithm (ROSA):</strong> Introduces **ROSA**, a lightweight algorithm that performs single-step, analytical parameter updates for efficient in-conversation self-correction
+- <strong>Theory:</strong> Proves monotonic error reduction at each turn and guarantees cumulative convergence to the user's optimal preference
+
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS2025</div><img src='images/ReDit.png' alt="ReDit" width="100%" style="display: block;"></div></div>
+<div class='paper-box-text' markdown="1">
 
-# 🎡 Service
-<!-- ## Conference Committee Member -->
-- Reviewer for ICLR'2026
+ReDit: Reward Dithering for Improved LLM Policy Optimization
 
-<br>
 
+<strong>Chenxing Wei</strong>, Jiarui Yu, Ying Tiffany He, Hande Dong, Yao Shu, Fei Yu
+
+[**Paper**](https://arxiv.org/abs/2506.18631)  | [**OpenReview**](https://openreview.net/forum?id=pG1Y63MqHm) |  [**GitHub** ](https://github.com/kithib/ReDit) 
+- <strong>Algorithm (ReDit):</strong> a method that injects zero-mean random noise into rewards to smoothen the landscape, enabling continuous and stable gradient estimation.
+- <strong>Theory:</strong> proves that reward dithering effectively mitigates gradient anomalies (vanishing/exploding) and significantly accelerates convergence.
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP2025</div><img src='images/PAFT.png' alt="PAFT" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+PAFT: Prompt-Agnostic Fine-Tuning
+
+
+<strong>Chenxing Wei</strong>, Yao Shu, Mingwen Ou, Ying Tiffany He, Fei Richard Yu
+
+[**Paper**](https://arxiv.org/abs/2502.12859)  |  [**GitHub** ](https://github.com/kithib/PAFT) 
+
+- <strong>Algorithm (PAFT):</strong> Introduces **PAFT**, which minimizes the divergence between predictions from full prompts and "pattern-free" inputs, effectively decoupling task reasoning from specific instruction syntax.
+- <strong>Theory:</strong> Theoretically guarantees reduced generalization error under prompt distribution shifts and empirically achieves state-of-the-art robustness.
+
+</div>
+</div>
+
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL2025</div><img src='images/flexora.png' alt="Flexora" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Flexora: Flexible Low-Rank Adaptation for Large Language Models
+
+<strong>Chenxing Wei&dagger</strong>, Yao Shu&dagger, Ying Tiffany He, Fei Yu
+[**Paper** ](https://arxiv.org/abs/2408.10774)  |  [**GitHub** ](https://github.com/kithib/Flexora) 
+
+- <strong>Algorithm (Flexora):</strong> Introduces Flexora, a framework that treats layer selection as a Hyperparameter Optimization (HPO) problem. It employs unrolled differentiation to automatically learn a policy that identifies and adapts only the most critical layers for specific downstream tasks.
+- <strong>Theory:</strong> Provides theoretical insights into how automated, flexible layer selection effectively mitigates overfitting and enhances generalization compared to uniform adaptation.
+
+</div>
+</div>
 
 
 # 🎖 Honors and Awards
