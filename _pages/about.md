@@ -61,6 +61,7 @@ If you are interested in my research, please feel free to contact me via [![Emai
 </div>
 
 <br/>
+
 # 📝 Publications 
 **&dagger; Equal Contribution**   
 
@@ -127,9 +128,14 @@ Flexora: Flexible Low-Rank Adaptation for Large Language Models
 </div>
 </div>
 
+<br>
+
 
 # 🎡 Service
 - Reviewer for ICLR'2026
+
+
+<br>
 
 
 # 🎖 Honors and Awards
