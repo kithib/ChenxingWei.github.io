@@ -142,14 +142,14 @@ Flexora: Flexible Low-Rank Adaptation for Large Language Models
 - *2025.11* Senior Area Chair Highlights Award of EMNLP 2025.
 - *2025.10* National Scholarship *Shenzhen University*
 - *2025.09* First-Class Academic Scholarship *Shenzhen University*
-- *2023.09* Second-Class Academic Scholarship Shenzhen University*
+- *2023.09* Second-Class Academic Scholarship *Shenzhen University*
 - *2022.06* First Prize in the TI Cup National Undergraduate Electronics Design Contest *Nanjing University of Aeronautics and Astronautics*
 - *2021.06* First Prize in the Contemporary Undergraduate Mathematical Contest in Modeling *Nanjing University of Aeronautics and Astronautics*
 
 <br>
 
 # 📖 Educations
-- Shenzhen University<img src="images/szu.png" alt="SZU Insignia" style="float: right; width: 90px;"/>
+- Shenzhen University<img src="images/szu.jpg" alt="SZU Insignia" style="float: right; width: 90px;"/>
 
   Master, Computer Science, 2023.09 - (now), 
 
