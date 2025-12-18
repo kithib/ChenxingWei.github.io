@@ -200,7 +200,7 @@ Flexora: Flexible Low-Rank Adaptation for Large Language Models
 
 - Tencent<img src="images/tencent.png" alt="Tencent Insignia" style="float: right; width: 100px;"/>
 
-  Algorithm Intern, AI LAB, 2024.06 - 2024.12, 
+  Algorithm Intern, AI LAB Digital Human Team, 2024.06 - 2024.12, 
   
   Main contributions: Research on emotion and action prediction model of the game NPC and Scaling Law.
 
